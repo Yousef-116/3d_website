@@ -17,24 +17,38 @@ const Header = () => {
     return (
         <header className="flex justify-between items-center 
             py-4 px-4 lg:px-20">
-            <h1 className="text-3xl md:text-4xl lg:text-5xl
-         ">MCODE</h1>
+            <h1 
+            data-aos="fade-down"
+            data-aos-easing="linear"
+            data-aos-duration="500"
+            className="text-3xl md:text-4xl lg:text-5xl
+            ">MCODE</h1>
 
             <nav className='hidden md:flex items-center
              gap-8 lg:gap-12'>
-                <a className='text-base tracking-wider
+                <a data-aos="fade-down"
+                data-aos-easing="linear"
+                data-aos-duration="1000"
+                className='text-base tracking-wider
                 transition-colors hover:text-gray-300
                 z-50' href="#">COMPANY</a>
 
-                <a className='text-base tracking-wider
+                <a  data-aos="fade-down"
+                data-aos-easing="linear"
+                data-aos-duration="1500"
+                className='text-base tracking-wider
                 transition-colors hover:text-gray-300
                 z-50' href="#">FEATURES</a>
 
-                <a className='text-base tracking-wider
+                <a data-aos="fade-down"
+                data-aos-easing="linear"
+                data-aos-duration="2000" className='text-base tracking-wider
                 transition-colors hover:text-gray-300
                 z-50' href="#">RESOURCES</a>
 
-                <a className='text-base tracking-wider
+                <a data-aos="fade-down"
+                data-aos-easing="linear"
+                data-aos-duration="2500" className='text-base tracking-wider
                 transition-colors hover:text-gray-300
                 z-50' href="#">DOCS</a>
 
