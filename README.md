@@ -29,7 +29,7 @@ This is my first project experimenting with **3D objects on the web**, where a r
 ```bash
 # Clone the repository
 git clone https://github.com/Yousef-116/3d_website.git
-cd 3d-robot-portfolio
+cd 3d_website
 
 # Install dependencies
 npm install
