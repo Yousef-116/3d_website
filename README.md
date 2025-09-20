@@ -28,7 +28,7 @@ This is my first project experimenting with **3D objects on the web**, where a r
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/3d-robot-portfolio.git
+git clone https://github.com/Yousef-116/3d_website.git
 cd 3d-robot-portfolio
 
 # Install dependencies
